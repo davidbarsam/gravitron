@@ -1,8 +1,8 @@
 # README #
 
-**Gravitron** is a clone of the minigame *Super Gravitron* from the game *VVVVVV*. The main objective is to survive as long as possible by dodging oncoming debris and objects.
+**Gravitron** is a clone of the minigame *Super Gravitron* from the game *VVVVVV* built in Unity. The main objective is to survive as long as possible by dodging oncoming debris and objects.
 
-This is a student project I made to practice the entire process of making a game, from preparation to release. Almost everything was self-made, except for the music.
+This is a project I made to practice the process of making a game, from preparation to release. Almost everything was self-made, except for the music.
 
 ### What is this repository for? ###
 
